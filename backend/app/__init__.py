@@ -1,0 +1,1 @@
+# ClinicCare Mini EMR Backend
